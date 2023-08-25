@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souvik2310
 - 👀 I’m interested in codeing
-- 🌱 I’m currently learning java language
+- 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me text me on github
 
